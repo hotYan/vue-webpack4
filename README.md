@@ -8,15 +8,15 @@
 2. clone 后进入项目根目录
 3. 安装项目依赖
 
-    $ npm install
+      $ npm install
 
 4. 开发环境运行
 
-    $ npm run dev
+      $ npm run dev
 
 5. 生产环境打包
 
-    $ npm run build
+      $ npm run build
 
 ## 教程
 
