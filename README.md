@@ -2,6 +2,10 @@
 
 基于vue+webpack4项目的TodoList。
 
+<div align =center>
+	<img src='' alt='img' height='450px' width="450px" />
+</div>
+
 ## 使用
 
 1. node 运行环境
