@@ -26,7 +26,9 @@
 
 ## 教程
 
-[vue+webpack4](https://hotkang.cn/2020/%E4%BB%8E0%E5%88%B01vue-webpack4%E9%A1%B9%E7%9B%AE/)
+- [个人博客](https://hotkang.cn/2020/%E4%BB%8E0%E5%88%B01vue-webpack4%E9%A1%B9%E7%9B%AE/)
+
+- [掘金地址](https://juejin.im/post/5ece20a0f265da76b67bebd6)
 
 ## 待完善
 
