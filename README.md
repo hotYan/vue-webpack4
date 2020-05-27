@@ -3,7 +3,7 @@
 基于vue+webpack4项目的TodoList。
 
 <div align =center>
-	<img src='https://github.com/hotYan/vue-webpack4/blob/master/src/assets/images/todolist.jpg' alt='img' height='450px' width="450px" />
+	<img src='https://github.com/hotYan/vue-webpack4/blob/master/src/assets/images/todolist.jpg' alt='img' height='350px' width="550px" />
 </div>
 
 ## 使用
