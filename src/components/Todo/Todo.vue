@@ -10,7 +10,7 @@
 import TodoItem from './TodoItem.vue'
 import TodoInfo from './TodoInfo.vue'
 
-let id = 0
+let id = 1
 export default {
   name: 'Todo',
   components: {
@@ -27,7 +27,7 @@ export default {
   },
   watch:{
     todoData: {
-    deep: true,
+      deep: true,
       handler() {
         this.total = this.todoData.filter( item => item.completed == false).length
       }
@@ -52,7 +52,7 @@ export default {
     addTodo() {
       if (this.content === '') return
       this.todoData.unshift({
-        id: 2,
+        id: id++,
         content: this.content,
         completed: false
       })
